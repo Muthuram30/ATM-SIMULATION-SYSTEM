@@ -1,6 +1,7 @@
 # ATM-SIMULATION-SYSTEM
 How It Works
 <br>
+
 User enters card (simulated by input)
 <br>
 Enters 4-digit PIN
