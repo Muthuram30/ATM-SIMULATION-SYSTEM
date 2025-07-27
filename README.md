@@ -8,15 +8,24 @@ Enters 4-digit PIN
 Menu appears:
 <br>
 Check balance
+<br>
 Withdraw money
+<br>
 Deposit money
+<br>
 View mini statement
+<br>
 Exit
+<br>
 
 Each operation updates simulated account data
+<br>
 
 🙋‍♂️ Author
+<br>
 M. Muthuram
+<br>
 
 📃 License
+<br>
 This project is for educational/demo purposes.
