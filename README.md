@@ -1,4 +1,7 @@
 # ATM-SIMULATION-SYSTEM
+
+![C](https://img.shields.io/badge/C-375A9E?logo=c&logoColor=white)
+
 How It Works
 <br>
 
@@ -29,4 +32,4 @@ M. Muthuram
 
 📃 License
 <br>
-This project is for educational/demo purposes.
+This project is for educational/demo purposes and is available under the [MIT License](LICENSE).
